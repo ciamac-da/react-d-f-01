@@ -11,6 +11,9 @@
   padding: 0 2rem;
 }
 
-.main-header h1 {
+.main-header h2 {
   color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
